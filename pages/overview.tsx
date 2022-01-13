@@ -9,11 +9,11 @@ const Overview = () => {
   const overviews = [
     {
       content: {
-        title: "Rigel",
-        link: "https://rigel-gumball.vercel.app/",
+        title: "CHATROOM :)",
+        link: "https://github.com/XR7-Samir/Chatroom",
         status: "beta",
-        description: "Create, Publish, Share ! Your blog as services",
-        stacks: ["Typescript", "NextJs", "React", "PostgresQL", "Graphql"],
+        description: "A Simple web based chatroom deplyed using Websockets :)",
+        stacks: ["Javascript", "Css", "Html",
       },
     },
     {
@@ -21,15 +21,12 @@ const Overview = () => {
         title: "Codetree",
         link: "https://codetree.vercel.app/",
         status: "",
-        description: "Lightning fast Web base code editor",
+        description: "A Chatbot with speech recognition feature/ability :)",
         stacks: [
-          "Redis",
-          "Prisma",
-          "Typescript",
-          "NextJs",
-          "React",
-          "PostgresQL",
-          "Graphql",
+          "Html",
+          "Javascript",
+          "Css",
+          "Node.js",
         ],
       },
     },
