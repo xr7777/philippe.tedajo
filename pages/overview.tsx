@@ -27,9 +27,7 @@ const Overview = () => {
           "Css",
           "JavaScript",
           "Node.js",
-          "",
-          "",
-          "",
+        
         ],
       },
     },
