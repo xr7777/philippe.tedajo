@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 const tags = {
-  title: "PhilippeTedajo",
+  title: "XR7",
   description:
     "XD",
   url: "https://xr7.vercel.app/",
