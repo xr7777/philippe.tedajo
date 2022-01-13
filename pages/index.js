@@ -31,6 +31,7 @@ const About = () => {
           {textList}
           <motion.p variants={text_reveal_fade}>
           Basically i work with :){" "}
+
             <a className="text-gray-500">React / NextJs / Webpack</a>,{" "}
             <a className="text-gray-500">GraphQl</a>,{" "}
             <a className="text-gray-500">Typescript</a>,{" "}
