@@ -30,7 +30,7 @@ const About = () => {
         <motion.div variants={container} className="md:w-1/2 lg:pl-60">
           {textList}
           <motion.p variants={text_reveal_fade}>
-          Basically i work with :){" "}
+          Basically i work with {" "}
 
             <a className="text-gray-500">React / NextJs / Webpack</a>,{" "}
             <a className="text-gray-500">GraphQl</a>,{" "}
@@ -41,8 +41,7 @@ const About = () => {
             <a className="text-gray-500">Javascript</a>,{" "}
             <a className="text-gray-500">Algorithms and data structure</a>,{" "}
             <a className="text-gray-500">RestFull Api</a> and{" "}
-            <a className="text-gray-500">NodeJs </a>
-            around my passion for web programming.
+            <a className="text-gray-500">NodeJs. </a>
           </motion.p>
         </motion.div>
         <div className="md:static fixed md:block w-1/2">
