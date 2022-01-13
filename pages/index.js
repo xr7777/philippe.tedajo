@@ -27,7 +27,7 @@ const About = () => {
         exit="exit"
         className="flex"
       >
-        <motion.div variants={container} className="md:w-1/2 lg:pl-36">
+        <motion.div variants={container} className="md:w-1/2 lg:pl-60">
           {textList}
           <motion.p variants={text_reveal_fade}>
           Basically i work with :){" "}
