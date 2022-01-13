@@ -14,7 +14,6 @@ const Overview = () => {
         status: "beta",
         description: "A Simple web based chatroom deplyed using Websockets :)",
         stacks: ["Javascript", "Css", "Html",
-      },
     },
     {
       content: {
