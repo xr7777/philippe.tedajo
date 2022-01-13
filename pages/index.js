@@ -30,17 +30,17 @@ const About = () => {
         <motion.div variants={container} className="md:w-1/2 lg:pl-36">
           {textList}
           <motion.p variants={text_reveal_fade}>
-            I love exploring new things! :)
-            {" "}
+          Basically i work with :){" "}
             <a className="text-gray-500">React / NextJs / Webpack</a>,{" "}
+            <a className="text-gray-500">GraphQl</a>,{" "}
             <a className="text-gray-500">Typescript</a>,{" "}
             <a className="text-gray-500">Scss/Css</a>,{" "}
             <a className="text-gray-500">Redux</a>,{" "}
             <a className="text-gray-500">C </a>,{" "}
             <a className="text-gray-500">Javascript</a>,{" "}
-            <a className="text-gray-500">Algorithms and Data Structure</a>,{" "}
+            <a className="text-gray-500">Algorithms and data structure</a>,{" "}
             <a className="text-gray-500">RestFull Api</a> and{" "}
-            <a className="text-gray-500">NodeJs </a>. I'm also learning them :)
+            <a className="text-gray-500">NodeJs </a>
             around my passion for web programming.
           </motion.p>
         </motion.div>
