@@ -40,7 +40,7 @@ const About = () => {
             <a className="text-gray-500">C </a>,{" "}
             <a className="text-gray-500">Javascript</a>,{" "}
             <a className="text-gray-500">Algorithms and data structure</a>,{" "}
-            <a className="text-gray-500">RestFull Api</a> and{" "}
+            <a className="text-gray-500">RestFull Api</a> &{" "}
             <a className="text-gray-500">NodeJs. </a>
           </motion.p>
         </motion.div>
