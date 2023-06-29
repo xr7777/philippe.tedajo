@@ -10,12 +10,16 @@ export const Footer = () => {
     >
       <ul className="flex flex-col text-center sm:flex-row hidden md:block">
         <li>
-          <p className="mr-2.5 lg:mr-10">XR7</p>
+          <p className="mr-2.5 lg:mr-10">
+            <Link href="https://instagram.com/samir.xr">
+              <a target="_blank" rel="noreferrer noopener">XR7</a>
+            </Link>
+          </p>
         </li>
       </ul>
       <ul className="flex text-center ">
         <p className="mr-2.5 lg:mr-10 cursor-pointer">
-          <Link href="https://github.com/Xr7-samir">
+          <Link href="https://github.com/SamirXR">
             <a target="_blank" rel="noreferrer noopener">
               <AiOutlineGithub size={20} />
             </a>
